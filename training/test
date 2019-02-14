@@ -1,0 +1,7 @@
+first_name = input("First name: ")
+last_name = input("Last name: ")
+age = input("Age: ")
+
+list = [age]
+for l in list:
+	print(l)
